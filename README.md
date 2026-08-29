@@ -1,0 +1,2 @@
+# AgenticAI
+Practicing agentic assignments 
